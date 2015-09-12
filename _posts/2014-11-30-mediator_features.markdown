@@ -6,7 +6,7 @@ categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
-#Mediator Formats and CSS features
+#Mediator Formats and CSS features for Jason's blog
 
 Examples for different formats and css features
 
