@@ -6,13 +6,13 @@
 </description>
     <link>http://myblog.***.***/</link>
     <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Sep 2015 11:06:55 +0100</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2015 11:06:55 +0100</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2015 11:27:19 +0100</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2015 11:27:19 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Mediator Features</title>
-        <description>&lt;h1&gt;Mediator Formats and CSS features&lt;/h1&gt;
+        <description>&lt;h1&gt;Mediator Formats and CSS features for Jason&amp;#39;s blog&lt;/h1&gt;
 
 &lt;p&gt;Examples for different formats and css features&lt;/p&gt;
 
