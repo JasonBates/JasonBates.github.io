@@ -1,2 +1,2 @@
 # JasonBates.github.io
-Site / Blog
+My personal blog
